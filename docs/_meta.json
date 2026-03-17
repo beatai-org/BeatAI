@@ -3,24 +3,55 @@
   "categories": [
     {
       "id": "ai-insights",
-      "title": "AI前沿分享",
+      "title": "AI视点",
       "description": "AI 领域最新动态、技术分享与深度解析",
       "githubRepo": "https://github.com/beatai-org/beatai",
       "repoTitle": "繁星点点，只因有你",
       "sections": [
         {
-          "title": "AI视点",
-          "path": "/ai-insights/viewpoint/intro",
-          "file": "/docs/ai-insights/viewpoint/intro.md",
+          "title": "2026 年 2 月",
+          "path": "/ai-insights/viewpoint/2026-02",
           "items": [
             {
-              "title": "2026",
-              "path": "/ai-insights/viewpoint/2026",
-              "file": "/docs/ai-insights/viewpoint/2026.md",
+              "title": "AI Agent 正在吃掉软件世界",
+              "path": "/ai-insights/viewpoint/ai-agent-revolution",
+              "file": "/docs/ai-insights/viewpoint/ai-agent-revolution.md",
               "tags": [
                 "AI",
-                "技术趋势",
-                "前沿"
+                "Agent",
+                "软件革命",
+                "自动化",
+                "未来趋势"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2026 年 3 月",
+          "path": "/ai-insights/viewpoint/2026-03",
+          "items": [
+            {
+              "title": "Vibe Coding，是怎么「玩废」程序员的？",
+              "path": "/ai-insights/viewpoint/vibe-coding",
+              "file": "/docs/ai-insights/viewpoint/vibe-coding.md",
+              "tags": [
+                "AI",
+                "编程",
+                "Vibe Coding",
+                "程序员",
+                "认知科学"
+              ]
+            },
+            {
+              "title": "微软中国 CTO 韦青：警惕朋友圈 AI 神话，重视苦活、脏活、累活",
+              "path": "/ai-insights/viewpoint/weiching-ai-reform",
+              "file": "/docs/ai-insights/viewpoint/weiching-ai-reform.md",
+              "tags": [
+                "AI",
+                "企业转型",
+                "微软",
+                "组织变革",
+                "数字化"
               ]
             }
           ]
