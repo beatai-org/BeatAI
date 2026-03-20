@@ -81,6 +81,63 @@
       "path": "/ai-insights/viewpoint/2026-03",
       "items": [
         {
+          "title": "Harness Engineering:2026年最被低估的工程革命",
+          "path": "/ai-insights/viewpoint/harness-engineering-revolution",
+          "file": "/docs/ai-insights/viewpoint/harness-engineering-revolution.md",
+          "publishedAt": "2026-03-20",
+          "contributors": [
+            {
+              "role": "reviewer",
+              "name": "Sheldon Cooper"
+            }
+          ],
+          "tags": [
+            "HarnessEngineering",
+            "Codex",
+            "软件工程",
+            "AIAgent",
+            "开发范式"
+          ]
+        },
+        {
+          "title": "CC之父曝内部团队使用Claude Code的10条技巧！网友：工作流很管用，但钱包有点痛",
+          "path": "/ai-insights/viewpoint/claude-code-team-10-tips",
+          "file": "/docs/ai-insights/viewpoint/claude-code-team-10-tips.md",
+          "publishedAt": "2026-03-20",
+          "contributors": [
+            {
+              "role": "reviewer",
+              "name": "Sheldon Cooper"
+            }
+          ],
+          "tags": [
+            "ClaudeCode",
+            "Worktree",
+            "PlanMode",
+            "CLAUDE.md",
+            "AI Coding"
+          ]
+        },
+        {
+          "title": "钉钉已经彻底 CLI 化了。",
+          "path": "/ai-insights/viewpoint/dingtalk-cli",
+          "file": "/docs/ai-insights/viewpoint/dingtalk-cli.md",
+          "publishedAt": "2026-03-20",
+          "contributors": [
+            {
+              "role": "reviewer",
+              "name": "Sheldon Cooper"
+            }
+          ],
+          "tags": [
+            "CLI",
+            "钉钉",
+            "Agent",
+            "AI产品",
+            "SaaS"
+          ]
+        },
+        {
           "title": "Vibe Coding，是怎么「玩废」程序员的？",
           "path": "/ai-insights/viewpoint/vibe-coding",
           "file": "/docs/ai-insights/viewpoint/vibe-coding.md",
