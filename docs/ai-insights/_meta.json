@@ -81,6 +81,26 @@
       "path": "/ai-insights/viewpoint/2026-03",
       "items": [
         {
+          "title": "模型不是关键，Harness 才是",
+          "path": "/ai-insights/viewpoint/model-is-not-key-harness-is",
+          "file": "/docs/ai-insights/viewpoint/model-is-not-key-harness-is.md",
+          "publishedAt": "2026-03-24",
+          "contributors": [
+            {
+              "role": "reviewer",
+              "name": "Sheldon Cooper",
+              "link": "https://baike.baidu.com/item/谢尔顿·库珀/9982394"
+            }
+          ],
+          "tags": [
+            "HarnessEngineering",
+            "AI Coding",
+            "Agent",
+            "工程系统",
+            "ContextEngineering"
+          ]
+        },
+        {
           "title": "构建 Claude Code 的经验：Prompt Caching 才是一切",
           "path": "/ai-insights/viewpoint/prompt-caching-is-everything",
           "file": "/docs/ai-insights/viewpoint/prompt-caching-is-everything.md",
