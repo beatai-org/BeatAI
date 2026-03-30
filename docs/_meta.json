@@ -12,6 +12,12 @@
       "title": "RUST 语言圣经",
       "description": "Rust 编程语言完整学习指南",
       "metaFile": "/docs/rust-course/_meta.json"
+    },
+    {
+      "id": "elon-book",
+      "title": "埃隆之书",
+      "description": "目标与成功指南，基于埃隆·马斯克原话整理的中文书籍版 Docs",
+      "metaFile": "/docs/elon-book/_meta.json"
     }
   ]
 }
